@@ -1,6 +1,6 @@
 # Calculadora IMC
 
-Status do projeto : Concluído :white_check_mark:
+Status do projeto : Concluído :white_check_mark: 🚀
 
 ## Descrição do Projeto 📝
 
